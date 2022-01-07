@@ -134,6 +134,6 @@ const getChange = (price, payAmount, money) => {
 	return ret;
 };
 
-const result = getChange(3.56, 20, moneyEuro);
+const result = getChange(4.50, 20, moneyEuro);
 
 console.log(result);
