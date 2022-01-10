@@ -1,54 +1,5 @@
-const moneyDollar = {
-	units: [
-		{
-			value: 500,
-			kind: 'note'
-		},
-		{
-			value: 200,
-			kind: 'note'
-		},
-		{
-			value: 100,
-			kind: 'note'
-		},
-		{
-			value: 50,
-			kind: 'note'
-		},
-		{
-			value: 20,
-			kind: 'note'
-		},
-		{
-			value: 10,
-			kind: 'note'
-		},
-		{
-			value: 5,
-			kind: 'note'
-		},
-		{
-			value: .25,
-			kind: 'coin'
-		},
-		{
-			value: .1,
-			kind: 'coin'
-		},
-		{
-			value: .05,
-			kind: 'coin'
-		},
-		{
-			value: .01,
-			kind: 'coin'
-		}
-	]
-}
 const moneyEuro = {
-	units: [
-		{
+	units: [{
 			value: 500,
 			kind: 'note'
 		},
